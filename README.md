@@ -5,4 +5,4 @@ CodeBook.md describes how the data is constructed, how those variables named and
 
 TidyData.txt is the output after the procedure mentioned in the requirement of the assignment.
 
-Run_code.R is the code I used for the data processing.
+run_analysis.R is the code I used for the data processing.
